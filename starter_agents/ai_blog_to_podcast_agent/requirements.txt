@@ -1,0 +1,5 @@
+streamlit==1.32.0
+openai==1.14.0
+elevenlabs==1.0.3
+firecrawl-py==0.0.16
+python-dotenv==1.0.0
