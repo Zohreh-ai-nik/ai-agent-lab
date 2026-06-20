@@ -176,4 +176,3 @@ Apache-2.0 — fork it, ship it, sell it. See [LICENSE](LICENSE) for details.
 
 ## ⭐ If this saves you time, star the repo — that's how the next developer discovers it.
 
-Built with ❤️ by [Zohreh-ai-nik](https://github.com/Zohreh-ai-nik)
