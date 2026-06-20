@@ -1,0 +1,7 @@
+agno
+openai
+firecrawl-py
+e2b-code-interpreter
+streamlit
+python-dotenv
+pillow
