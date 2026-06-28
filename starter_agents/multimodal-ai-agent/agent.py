@@ -1,6 +1,5 @@
 from agno.agent import Agent
-from agno.model.Anthropic import Claude
-from agno.model.OpenAI import ChatGPT
+from agno.models.anthropic import Claude
 
 def create_agent(api_key: str) -> Agent:
     
@@ -10,4 +9,6 @@ def create_agent(api_key: str) -> Agent:
     )
     return agent
 
-
+if __name__ == "__main__":
+    agent = create_agent(api_key="fake-key-just-to-test-structure")
+    print("Agent created:", agent.model.id)
